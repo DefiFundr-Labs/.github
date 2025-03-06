@@ -12,6 +12,11 @@ DefiFundr addresses key pain points in modern payroll and invoicing systems:
 - Reduces cross-border payment friction
 - Provides transparent, immutable payment records
 - Enables instant cryptocurrency salary payments
-- Offers flexible payment options in multiple currencies (USDC, SOL, ETH, and fiat)
+- Offers flexible payment options in multiple currencies (USDC, USDT, and FIAT)
 - Automates payroll processes through smart contracts
+- Invoice management for freelancers and contractors
+- Securely stores employee and contractor data
+- Manager dashboard for real-time payroll and invoice tracking
+- Automated tax calculations and reporting
+- Integration with popular payroll and accounting software
 - Ensures regulatory compliance with built-in KYC and tax handling
