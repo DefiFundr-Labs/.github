@@ -1,4 +1,4 @@
-# Introduction to DefiFundr
+# Welcome to DefiFundr
 
 Project Overview
 
